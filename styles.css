@@ -31,7 +31,7 @@ header h1 {
     font-size: 18px;
     padding: 10px;
 }
-a{
+a {
     text-decoration: none;
 
 }
@@ -115,9 +115,6 @@ header ul li a:hover{
     color: white;
     border-radius: 5px;
     margin: auto;
-
-
-
 
 }
 
